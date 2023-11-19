@@ -14,8 +14,8 @@ Developer Consultant at <a href="https://www.gs1mexico.org/es/">GS1 Mexico</a><i
 ```javascript
 const Idiaz = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C#, Lua],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Laravel, Love ],
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C#, Lua, php],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Laravel, Love, cakephp ],
   architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am doing the #C50s Harvard's Course focused on Lua"
 }
